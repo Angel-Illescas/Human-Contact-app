@@ -1,6 +1,7 @@
+import { Typography } from "@mui/material"
 
 export const DashboardPage = () => {
   return (
-    <h1>DashboardPage</h1>
+    <Typography variant="h1" color="primary">DashboardPage</Typography>
   )
 }
